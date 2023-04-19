@@ -236,7 +236,8 @@ function App() {
               power={power}/>         
           </div>
         </div>   
-      </div>   
+      </div>
+      <p className='pt-2'>by Revenco Daniel</p>   
     </div>
   
   );
